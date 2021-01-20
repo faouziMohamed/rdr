@@ -6,7 +6,7 @@ Seriously you don't want to shorten your url knowing that your shortened url wil
 To get your, please see this GitHub repository ([nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)) for everything you need to know..!
 
 ### Any way, how to do ?
-An example of a [pseudo] shortned link will look like this : https://faouzimohamed.github.io/rdr/1 (should link to this repo).
+An example of a [pseudo] shortned link will look like this : https://faouzimohamed.github.io/rdr/3 (should link to this repo).
 1. To add a new short link, add an issue with the title being the link you want to shorten (including the http(s)://) to https://github.com/faouziMohamed/rdr/issues.
 1. The newly created short url can be accessed via faouzimohamed.github.io/rdr/{issue_number} (issue number without the leading '#')
 
